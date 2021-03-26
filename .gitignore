@@ -1,0 +1,9 @@
+#dependencies
+node_modules
+
+public
+
+#files
+yarn.lock
+yarn-error.log
+.env
